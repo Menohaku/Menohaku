@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Menohaku",
+    "icon": "./components/Chat/noun_1004875.png",
+    "sdkVersion": "26.0.0",
+    "version": "0.0.1",
+    "android": {
+      "package": "omnia.menohaku",
+      "config": {"googleMaps": {
+        "apiKey": ""
+      }
+    }
+  }
+}
+}
